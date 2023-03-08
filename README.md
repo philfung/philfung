@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @philfung
-- 🧪 I currently work on Kit.com (now part of Ro), which makes at-home medical exams. 
-- 💬 I previously worked on Operator.com, at AI chat company.
-- 👍 Before that, I was one of the early engineers at Facebook, focussing on mobile apps and growth.
-- 👀 I’m interested in health tech (medical devices and software), app development, and machine learning.
+- 🧪 I'm founder/CEO of Kit.com (now a subsidiary of Ro), which gives patients clinical-grade blood testing at home.
+- 💬 I previously co-founded Operator.com, an early AI chat company.
+- 👍 Before that, I was an early engineer at Facebook, focussing on mobile apps and growth.
+- 👀 I’m interested in healthtech, engineering, and machine learning.
 
 <!---
 philfung/philfung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
