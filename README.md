@@ -1,4 +1,4 @@
-- early engineer at Meta, focussing on infra, mobile apps and growth.
+- early engineer at Meta.
 - founder of Kit (at-home blood testing, acquired by Roman) and co-founder of Operator (AI chatbot, Apple IOS App of the month)
 - building new stuff in robotics and AI.
 <!---
