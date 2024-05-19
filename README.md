@@ -1,4 +1,4 @@
-building
+Building
 
 Previously:
 - 🩸 ceo at Kit (acquired by Roman) 
