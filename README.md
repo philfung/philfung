@@ -1,6 +1,6 @@
 Building
 
 Previously:
-- 🩸 ceo at Kit (acquired by Roman, live product) 
-- 🤖 cto of Operator (early AI chatbot, 🍎 award)
-- 👨‍💻 early engineer at Meta.
+- 🩸 ceo at Kit (acquired by Ro, live service) 
+- 🤖 cto at Operator (early AI chatbot, 🍎 app o/t month Nov 2015)
+- 👨‍💻 early engineer at Meta (1st/2nd eng on Search/Growth/Mobile, ex-engineer's group admin)
