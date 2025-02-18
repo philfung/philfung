@@ -1,4 +1,4 @@
-- builder
+- builder in ai, robotics, devtools
 - advisor at Cline and Icarus
   
 Previously:
