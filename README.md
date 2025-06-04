@@ -1,6 +1,6 @@
 - building AI, robotics, devtools
 - advisor at [Cline](https://github.com/cline/cline) and [Icarus](https://www.icarus.one/)
-- contributor to robotics projects like [LeRobot](https://github.com/huggingface/lerobot), [SO-100](https://github.com/TheRobotStudio/SO-ARM100)
+- contributor to AI robotics projects like [LeRobot](https://github.com/huggingface/lerobot) & [SO-100](https://github.com/TheRobotStudio/SO-ARM100)
   
 Previously:
 
