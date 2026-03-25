@@ -1,5 +1,4 @@
-- robotics, devtools
-- contributor to robotics OSS like [LeRobot](https://github.com/huggingface/lerobot) & [SO-100](https://github.com/TheRobotStudio/SO-ARM100)
+- robotics, health, devtools
 - advisor at [Cline](https://github.com/cline/cline) and [Icarus](https://www.icarus.one/)
   
 Previously:
