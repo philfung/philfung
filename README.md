@@ -1,8 +1,8 @@
 I work on:
 
-Robotics • Health • AI DevTools
+Robotics • Health
 
 * 🛠 Advising: Cline | Icarus
-* 🩸 Founder: Kit (Acq. by Ro)
+* 🩸 Founder: Kit (medical labs, Acq. by Ro)
 * 🤖 Founder: Operator (Early AI, Apple Award winner)
 * 👨‍💻 Early Engineer: Meta 
