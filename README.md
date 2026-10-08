@@ -1,5 +1,5 @@
 🤖 I work on robots & software
 
-* 🛠 Cline (AI coding) | Icarus (drones): Advisor
-* 🩸 Kit (medical lab startup, Acq. by Ro): Founder
-* 👨‍💻 Meta (growth, infra, apps): Early Engineer
+* 🛠 Advising: Cline (AI coding) | Icarus (drones)
+* 🩸 Founder: Kit (medical lab startup, Acq. by Ro)
+* 👨‍💻 Early Engineer: Meta (growth, infra, apps)
